@@ -12,7 +12,7 @@ Git was used for version management.
 
 ### Important code
 
-We have two important funcitons. ResetGame and RestoreGame, there are very similars.
+We have two important functions. ResetGame and RestoreGame, there are very similars.
 
 ```kotlin
 private fun resetGame() {
